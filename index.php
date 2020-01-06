@@ -6,7 +6,7 @@
 	<body>
 		<table border="0" align="center" width="80%" height="100%" cellspacing="0">
 			<tr>
-				<td colspan="6" rowspan="1" width="500px" height="300px" background="A.JPG">
+				<td colspan="6" rowspan="1" width="500px" height="300px" background="A.jpg">
 					<font color="#FFF8DC" face="Hagin" size="6"> &nbsp; &nbsp; &nbsp;&nbsp; DAKWAH </font>
 				</td>
 			</tr>
