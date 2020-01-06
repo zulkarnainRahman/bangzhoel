@@ -2,11 +2,11 @@
 	<head>
 		<title> Tugas Akhir </title>
 	</head>
-	<body background="image/Q.JPG">
+	<body background="Q.JPG">
 	<body>
 		<table border="0" align="center" width="80%" height="100%" cellspacing="0">
 			<tr>
-				<td colspan="6" rowspan="1" width="500px" height="300px" background="image/A.JPG">
+				<td colspan="6" rowspan="1" width="500px" height="300px" background="A.JPG">
 					<font color="#FFF8DC" face="Hagin" size="6"> &nbsp; &nbsp; &nbsp;&nbsp; DAKWAH </font>
 				</td>
 			</tr>
@@ -14,9 +14,9 @@
 				<td colspan="6" height="10px" bgcolor="white">
 					<table border="0" width="100%" height="50px">
 						<tr>
-							<td align="center"><img src="image/I.png" width="90px" height="90px"></td>
-							<td align="center"><marquee><img src="image/E.jpg" ></marquee></td>
-							<td align="center"><img src="image/F.jpg" width="90px" height="90px"></td>	
+							<td align="center"><img src="I.png" width="90px" height="90px"></td>
+							<td align="center"><marquee><img src="E.jpg" ></marquee></td>
+							<td align="center"><img src="F.jpg" width="90px" height="90px"></td>	
 						</tr>
 					</table>
 				</td>	
@@ -90,7 +90,7 @@
 					<hr valign="top" width="200px">
 					<table align="center"> 
 						<tr>
-							<td align="center"><img src="image/naim.jpg" border="5" style="border-color: white;" width="200px" height="200px">
+							<td align="center"><img src="naim.jpg" border="5" style="border-color: white;" width="200px" height="200px">
 								<br>
 								<p> ZULKARNAIN RAHMAN </P>
 								<p> 216280006 </p>
