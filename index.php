@@ -2,7 +2,7 @@
 	<head>
 		<title> Tugas Akhir </title>
 	</head>
-	<body background="Q.JPG">
+	<body bgcolor="black">
 	<body>
 		<table border="0" align="center" width="80%" height="100%" cellspacing="0">
 			<tr>
@@ -37,7 +37,7 @@
 				<td colspan="4" width="500px" height="500px" valign="top" bgcolor="00 CE D1">
 					<table border="0" width="850px" height="200px" cellspacing="7">
 						<tr>
-							<td rowspan="2" width="250px" align="center"><image src="image/G.png" border="5" style="border-color: blue;" width="300px" height="300px"></td>
+							<td rowspan="2" width="250px" align="center"><image src="G.png" border="5" style="border-color: blue;" width="300px" height="300px"></td>
 							<td align="center" height="30px">
 								<p><font face="Bodoni MT Condensed"><h1>Nilai-Nilai Pendidikan Sosial Dalam Ibadah Zakat</h1></font></p>
 							</td>
@@ -54,7 +54,7 @@
 					</table>
 					<table border="0" width="850px" height="200px" cellspacing="7">
 						<tr>
-							<td rowspan="2" width="250px" align="center"><image src="image/H.png" border="5" style="border-color: blue;" width="300px" height="300px"></td>
+							<td rowspan="2" width="250px" align="center"><image src="H.png" border="5" style="border-color: blue;" width="300px" height="300px"></td>
 							<td align="center" height="30px">
 								<p><font face="Bodoni MT Condensed"><h1>7 Macam Sholat Sunnah Yang Disyariatkan untuk Dikerjakan</h1></font></p>
 							</td>
@@ -71,7 +71,7 @@
 					</table>
 					<table border="0" width="850px" height="200px" cellspacing="7">
 						<tr>
-							<td rowspan="2" width="250px" align="center"><image src="image/J.png" border="5" style="border-color: blue;" width="300px" height="300px"></td>
+							<td rowspan="2" width="250px" align="center"><image src="J.png" border="5" style="border-color: blue;" width="300px" height="300px"></td>
 							<td align="center" height="30px">
 								<p><font face="Bodoni MT Condensed"><h1>MARI AJAKLAH SELURUH KELUARGA UNTUK MENGINTIP MALAM LAILATUL QADR</h1></font></p>
 							</td>
